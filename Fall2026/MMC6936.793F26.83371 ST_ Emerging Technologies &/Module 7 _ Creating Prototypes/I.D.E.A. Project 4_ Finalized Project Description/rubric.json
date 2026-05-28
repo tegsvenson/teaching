@@ -1,0 +1,72 @@
+{
+  "title": "Project Description (1)",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_6001",
+      "points": 80.0,
+      "description": "Proposal Revision",
+      "long_description": "Your revised idea is described. The specific breakdown of your grade within this part is the same as the project proposal.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3437",
+          "points": 80.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3569",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2246",
+      "points": 10.0,
+      "description": "Meeting 1 Attendance",
+      "long_description": "Student has set up and attended meeting 1.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3673",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2939",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1576508_7750",
+      "points": 10.0,
+      "description": "Interview incorporated",
+      "long_description": "Student has incorporated the core findings from the interview.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

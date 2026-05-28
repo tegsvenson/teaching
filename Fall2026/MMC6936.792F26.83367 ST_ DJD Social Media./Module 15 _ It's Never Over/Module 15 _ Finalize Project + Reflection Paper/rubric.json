@@ -1,0 +1,72 @@
+{
+  "title": "Individual Final Reflection Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_8251",
+      "points": 30.0,
+      "description": "Portfolio Document Contents",
+      "long_description": "Student has included all of the major assignments of the class in their portfolio document, including a cover page. Your average grade from Assiglnlments 1 to 10 is reflected here unless noted otherwise.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4585",
+      "points": 30.0,
+      "description": "Portfolio Visual Consistency",
+      "long_description": "Student has spent time adjusting their initial assignments and applying consistent fonts, colors, and graphics. The final product does not look like disconnected files thrown together, but rather a cohesive document.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_7279",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_6676",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8492",
+      "points": 40.0,
+      "description": "Reflection",
+      "long_description": "Student has written a meaningful reflection at least one paragraph long. The reflection reviews the success of the social media strategy, any changes the students would make in the future, and what skills they learned from the experience that will benefit them in the future.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2917",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3955",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

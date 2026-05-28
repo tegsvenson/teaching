@@ -1,0 +1,72 @@
+{
+  "title": "Early Prototype (1)",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_6598",
+      "points": 35.0,
+      "description": "Visuals",
+      "long_description": "Each step, function, icon, and task has their own evident visual representation.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 35.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2713",
+      "points": 35.0,
+      "description": "Interactivity",
+      "long_description": "The interactivity, or the path links between the visuals are either clearly explained or already implemented.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9470",
+          "points": 35.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2812",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_7174",
+      "points": 30.0,
+      "description": "Coherent Implementation",
+      "long_description": "Student followed their own ideas in IDEA 4, especially for the step-by-step instruction that they created.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4733",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_8202",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

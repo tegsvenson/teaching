@@ -1,0 +1,238 @@
+{
+  "title": "Audience and Persona Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_6041",
+      "points": 10.0,
+      "description": "IBIS World Industry",
+      "long_description": "Student has found an approximate industry for their brand on IBIS World.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_8991",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_5121",
+      "points": 40.0,
+      "description": "Target Audience Research",
+      "long_description": "Student has, via IBIS World and/or other methods, researched average characteristics of their brand&#39;s industry target audience or ideal segmentation. That research is summarized in the file.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4873",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_4140",
+          "points": 26.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_4694",
+          "points": 13.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_8348",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_5482",
+      "points": 10.0,
+      "description": "Key Points of Target Audience",
+      "long_description": "Student has described their brand&#39;s target audience age range, gender, stage of life, and wants and needs in a way that will be useful to their branding strategy.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_394",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_5748",
+          "points": 6.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_1234",
+          "points": 3.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_7439",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6287",
+      "points": 10.0,
+      "description": "Core Platforms",
+      "long_description": "Student has chosen core platforms for their brand that will meet their target audience&#39;s communication and social media preferences. The student has explained why those core platforms are the most effective platforms for reaching their target audience.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2986",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_5888",
+          "points": 6.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_1992",
+          "points": 3.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_4099",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4781",
+      "points": 10.0,
+      "description": "Persona Description",
+      "long_description": "Student has written a description of their audience persona that gives depth to the persona&#39;s &quot;life&quot; and will be useful to refer to when making branding and social media strategy decisions.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1791",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_8160",
+          "points": 6.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_4794",
+          "points": 3.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_829",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227328_4391",
+      "points": 10.0,
+      "description": "Content Overview",
+      "long_description": "Content curation and creation strategies are clearly explained based on the external audit or other reliable resources.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227328_2125",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_5213",
+          "points": 6.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_1802",
+          "points": 3.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_4113",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227328_6110",
+      "points": 10.0,
+      "description": "Engagement Strategy",
+      "long_description": "Engagement strategy is explained with proper rationale.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227328_1276",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_9665",
+          "points": 6.67,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_6718",
+          "points": 3.33,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "1227328_2397",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

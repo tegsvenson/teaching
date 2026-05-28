@@ -1,0 +1,270 @@
+{
+  "title": "Brand Profile Rubric (1)",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_1319",
+      "points": 5.0,
+      "description": "Template",
+      "long_description": "Student has used the proper template for this assignment.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 5.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2553",
+      "points": 10.0,
+      "description": "Brand Voice",
+      "long_description": "Student has established their brand&#39;s overall voice, including: how they will connect with their audience, how the audience will perceive the brand, justification for the chosen voice, etc.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_7262",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_1346",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_9284",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_559",
+      "points": 15.0,
+      "description": "Tone",
+      "long_description": "Student has created a list of terms to describe the tone of their brand. The tone appropriately matches the chosen brand voice. Group has given examples of captions/communications that utilize the chosen brand tone.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9346",
+          "points": 15.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_1775",
+          "points": 10.0,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_152",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_4426",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2214",
+      "points": 10.0,
+      "description": "Terminology",
+      "long_description": "Student has established, if any, relevant terms that need to be standardized across brand communications.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_199",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_1882",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_6800",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_5893",
+      "points": 10.0,
+      "description": "Visual Tone",
+      "long_description": "Student has listed keywords to describe the overall visual tone or &quot;theme&quot; of the brand&#39;s visuals and profile.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2111",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_9213",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_7827",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9025",
+      "points": 15.0,
+      "description": "Templates",
+      "long_description": "Student has created templates for standardized posts; written guidelines for when to use those templates; and shared the link to the templates in the brand profile document.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_7235",
+          "points": 15.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_5792",
+          "points": 10.0,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_6752",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_7412",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1525",
+      "points": 15.0,
+      "description": "Logo",
+      "long_description": "Student has created a logo for their brand and linked the logo in the Canva document. The logo matches the brand voice and visual tone established in the document.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1475",
+          "points": 15.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_9634",
+          "points": 10.0,
+          "description": "10 points",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_5998",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_3049",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6451",
+      "points": 10.0,
+      "description": "Colors",
+      "long_description": "Student has chosen a set of colors to be the main colors for the brand visuals. The HEX codes for the colors are listed in the profile document. The colors are appropriate to the overall visual tone of the brand.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8081",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_2857",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_7966",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1961",
+      "points": 10.0,
+      "description": "Fonts",
+      "long_description": "Student has chosen a set of fonts to be the main fonts for the brand visuals. The usage of each font as heading, subheading, and copy are described appropriately. The fonts are appropriate to the overall visual tone of the brand, and do not conflict.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_5969",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1095502_5864",
+          "points": 5.0,
+          "description": "5 points",
+          "long_description": ""
+        },
+        {
+          "id": "_6455",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

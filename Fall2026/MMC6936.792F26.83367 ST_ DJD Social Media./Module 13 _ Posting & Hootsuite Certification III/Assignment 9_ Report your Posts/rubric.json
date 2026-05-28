@@ -1,0 +1,116 @@
+{
+  "title": "Individual Assignment: Posts Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_7391",
+      "points": 20.0,
+      "description": "10 Posts",
+      "long_description": "Student has published a minimum of 10 posts across their brand&#39;s platforms.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_5751",
+      "points": 20.0,
+      "description": "4 Created Posts",
+      "long_description": "At least 5 of the student&#39;s posts were created (original content).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_294",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_9193",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227338_6845",
+      "points": 10.0,
+      "description": "Live Stream",
+      "long_description": "Student has shared the record of their livestream.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227338_4513",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227338_1631",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227338_6708",
+      "points": 20.0,
+      "description": "Post Performances",
+      "long_description": "Student has summarized, for each of their posts: where the post was published (i.e., which social platform); the post&#39;s date and time of publication; what format the post was published as; and how the post performed in terms of engagement.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227338_1716",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227338_6646",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227338_9314",
+      "points": 30.0,
+      "description": "Planned Posts",
+      "long_description": "Social media posts closely follow the plans and strategies devised during the campaign preparation, including issues raised through feedback.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227338_1925",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227338_3851",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Individual Meeting",
+  "points_possible": 40.0,
+  "criteria": [
+    {
+      "id": "1760204063080",
+      "points": 40.0,
+      "description": "Meeting Attendance",
+      "long_description": "Student has successfully attended the meeting for the scheduled that they created.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1",
+          "points": 40.0,
+          "description": "Attended",
+          "long_description": ""
+        },
+        {
+          "id": "3",
+          "points": 20.0,
+          "description": "Late",
+          "long_description": ""
+        },
+        {
+          "id": "5",
+          "points": 0.0,
+          "description": "Missed",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

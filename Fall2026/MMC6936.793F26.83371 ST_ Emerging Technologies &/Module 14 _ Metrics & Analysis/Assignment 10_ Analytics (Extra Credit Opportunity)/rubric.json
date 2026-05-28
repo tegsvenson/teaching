@@ -1,0 +1,94 @@
+{
+  "title": "Metrics/Analytics Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_9295",
+      "points": 10.0,
+      "description": "Canva Template and Usage",
+      "long_description": "Student has used the appropriate template for the assignment and adjusted the template to add their brand&#39;s colors, fonts and logo appropriately.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2433",
+      "points": 10.0,
+      "description": "Summary",
+      "long_description": "Student has written a detailed summary of their posts&#39; performances. The student has specifically referenced terms from the readings, including engagement and amplification metrics.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8483",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_5971",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1576",
+      "points": 40.0,
+      "description": "Analysis of your performance",
+      "long_description": "Student has engaged critical thinking skills in order to analyze trends in their posts&#39; performances based on metric data. The student has described similarities and differences between their best and worst performing posts. Finally, the report clearly recommends change in strategy as per the analysis.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_5717",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_4171",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_79",
+      "points": 40.0,
+      "description": "Collaboration Analysis",
+      "long_description": "The report adequately analyzes other brands for prospective collaboration. The report picks one brand, following the results from the analysis; and provides a sound rationale for choosing one of them.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9973",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2600",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "IDEA: Finalized Prototype",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "1763580304108",
+      "points": 100.0,
+      "description": "Implementation",
+      "long_description": "The prototype faithfully follows the details presented in the previous assignments, IDEA 4 and 5.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1",
+          "points": 100.0,
+          "description": "Exceeds",
+          "long_description": ""
+        },
+        {
+          "id": "2",
+          "points": 75.0,
+          "description": "Mastery",
+          "long_description": ""
+        },
+        {
+          "id": "3",
+          "points": 50.0,
+          "description": "Near",
+          "long_description": ""
+        },
+        {
+          "id": "4",
+          "points": 25.0,
+          "description": "Below",
+          "long_description": ""
+        },
+        {
+          "id": "5",
+          "points": 0.0,
+          "description": "No Evidence",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

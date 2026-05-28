@@ -1,0 +1,94 @@
+{
+  "title": "Social Media Audit",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_9843",
+      "points": 30.0,
+      "description": "4 Brand Comparison",
+      "long_description": "Student has chosen 4 brands that represent approximate competitors for their group project brand to audit (6.25% per cell).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4055",
+      "points": 30.0,
+      "description": "SWOT analysis",
+      "long_description": "SWOT analysis is clearly performed (12.5% per criterion) with a sound rationale (12.5% per criterion).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2449",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1215",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2855",
+      "points": 30.0,
+      "description": "Brand Proposal",
+      "long_description": "More than half of the questions per elements are properly answered (50%), and they are based on sound rationale (50%).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3714",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_7896",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1227342_6000",
+      "points": 10.0,
+      "description": "Quality of Writing",
+      "long_description": "Writing is free of grammatical errors and logically coherent.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1227342_4283",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227342_8976",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}
