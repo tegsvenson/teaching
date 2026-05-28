@@ -1,0 +1,46 @@
+{
+  "id": 2078322,
+  "name": "DIG3003.791F26.88835 Emerging Technologies & Media",
+  "course_code": "DIG3003.791F26",
+  "account_id": 114744,
+  "created_at": "2025-10-09T17:34:22Z",
+  "start_at": "2026-08-17T06:59:00Z",
+  "default_view": "modules",
+  "enrollment_term_id": 5132,
+  "is_public": false,
+  "grading_standard_id": null,
+  "root_account_id": 86643,
+  "uuid": "ydHZoRYh6MBgDmN0wBgAgdr1Gf3dv2lJPjMbOBa2",
+  "license": "private",
+  "grade_passback_setting": null,
+  "end_at": "2026-12-24T06:59:00Z",
+  "public_syllabus": false,
+  "public_syllabus_to_auth": true,
+  "storage_quota_mb": 52428,
+  "is_public_to_auth_users": false,
+  "homeroom_course": false,
+  "course_color": null,
+  "friendly_name": null,
+  "hide_final_grades": false,
+  "apply_assignment_group_weights": true,
+  "calendar": {
+    "ics": "https://usflearn.instructure.com/feeds/calendars/course_ydHZoRYh6MBgDmN0wBgAgdr1Gf3dv2lJPjMbOBa2.ics"
+  },
+  "time_zone": "America/New_York",
+  "blueprint": false,
+  "template": false,
+  "sis_course_id": "DIG3003.791F26",
+  "integration_id": null,
+  "enrollments": [
+    {
+      "type": "teacher",
+      "role": "TeacherEnrollment",
+      "role_id": 7743,
+      "user_id": 4976551,
+      "enrollment_state": "active",
+      "limit_privileges_to_course_section": false
+    }
+  ],
+  "workflow_state": "unpublished",
+  "restrict_enrollments_to_course_dates": true
+}

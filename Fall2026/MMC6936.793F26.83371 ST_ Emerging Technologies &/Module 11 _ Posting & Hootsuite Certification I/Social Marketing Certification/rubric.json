@@ -1,0 +1,28 @@
+{
+  "title": "Hootsuite Certification Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_7275",
+      "points": 100.0,
+      "description": "Certification",
+      "long_description": null,
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 100.0,
+          "description": "Full Marks",
+          "long_description": "Student has submitted evidence of Hootsuite Social Marketing certificate or alternative assignment."
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": "Student has not submitted evidence of Social Marketing certificate or alternative assignment."
+        }
+      ]
+    }
+  ]
+}

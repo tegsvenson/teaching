@@ -1,0 +1,202 @@
+{
+  "title": "Project Proposal (1)",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_4195",
+      "points": 10.0,
+      "description": "Project Description",
+      "long_description": "Project is clearly explained and the proposal is free of major grammatical or logical issues.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1492",
+          "points": 5.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_5889",
+      "points": 10.0,
+      "description": "User Task",
+      "long_description": "User task is described clearly.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8642",
+          "points": 10.0,
+          "description": "Clearly Described",
+          "long_description": ""
+        },
+        {
+          "id": "1687458_4149",
+          "points": 5.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_6490",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6609",
+      "points": 10.0,
+      "description": "User Context",
+      "long_description": "The user\u2019s context is described clearly.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4321",
+          "points": 10.0,
+          "description": "Clearly Described",
+          "long_description": ""
+        },
+        {
+          "id": "_7816",
+          "points": 5.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_9938",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4907",
+      "points": 10.0,
+      "description": "User Group",
+      "long_description": "At least one among age, gender, or stage of life is clearly defined, avoiding the user group being \u201ceveryone.&quot;",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1399",
+          "points": 10.0,
+          "description": "Clearly Described",
+          "long_description": ""
+        },
+        {
+          "id": "_5069",
+          "points": 5.0,
+          "description": "Mostly Described",
+          "long_description": ""
+        },
+        {
+          "id": "_9231",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1765",
+      "points": 25.0,
+      "description": "Usability Goal & Design Principle",
+      "long_description": "At least one usability goal and one design principle is applied in the proposal. The proposal provides sound rationale for the reason why the concepts are applicable to their project.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1806",
+          "points": 25.0,
+          "description": "Clearly Provided",
+          "long_description": ""
+        },
+        {
+          "id": "1687458_4765",
+          "points": 12.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_4294",
+          "points": 0.0,
+          "description": "Rationale not met.",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1545846_4893",
+      "points": 25.0,
+      "description": "Information Processing & Media Effect",
+      "long_description": "Proposal predicts and provides rationale for how the design alternative may change  user&#39;s information processing. The proposal also predicts and provides rationale on how long the effect may have impact on users.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1545846_4660",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1687458_8141",
+          "points": 12.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1545846_9555",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "1545846_5205",
+      "points": 10.0,
+      "description": "Feasibility",
+      "long_description": "The project can be successfully finished this semester",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "1545846_5709",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1687458_9632",
+          "points": 5.0,
+          "description": "Half Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1545846_3537",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

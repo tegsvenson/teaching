@@ -1,0 +1,222 @@
+{
+  "title": "Algorithms Assignment Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_9157",
+      "points": 5.0,
+      "description": "Template",
+      "long_description": "Student has used the correct Canva template for this assignment.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 5.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2900",
+      "points": 20.0,
+      "description": "Core Platform 1: Summary",
+      "long_description": "Student has researched how their brand&#39;s core platform 1&#39;s algorithm functions. The processes of the algorithm and how content is organized/prioritized are summarized in the report.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_7829",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_7340",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_2308",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_2215",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_143",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_230",
+      "points": 25.0,
+      "description": "Core Platform 1: Strategies",
+      "long_description": "Student has discussed ways in which the core platform 1&#39;s algorithm can be used to the advantage of the brand in a social strategy context.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3684",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_3114",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_3525",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_6104",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_5704",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_3355",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2041",
+      "points": 20.0,
+      "description": "Core Platform 2: Summary",
+      "long_description": "Student has researched how their brand&#39;s core platform 2&#39;s algorithm functions. The processes of the algorithm and how content is organized/prioritized are summarized in the report.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_5159",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_508",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_1570",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_4744",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_5302",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8344",
+      "points": 25.0,
+      "description": "Core Platform 2: Strategies",
+      "long_description": "Student has discussed ways in which the core platform 2&#39;s algorithm can be used to the advantage of the brand in a social strategy context.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_5681",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_4521",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_9606",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_2820",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "1227314_5878",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_4794",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8168",
+      "points": 5.0,
+      "description": "Sources",
+      "long_description": "Student has utilized appropriate sources for their research and has obtained the most up-to-date information on the algorithms (i.e., no older than 2021).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_6674",
+          "points": 5.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_9406",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}
