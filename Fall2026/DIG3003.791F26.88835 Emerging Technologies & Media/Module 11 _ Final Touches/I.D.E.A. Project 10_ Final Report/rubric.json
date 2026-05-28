@@ -1,0 +1,50 @@
+{
+  "title": "Finals",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_6863",
+      "points": 80.0,
+      "description": "IDEA Work",
+      "long_description": "This part reflects your past work from previous assignments in this series.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 80.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4792",
+      "points": 20.0,
+      "description": "Final Conclusion and Future Direction",
+      "long_description": null,
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3415",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1489",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

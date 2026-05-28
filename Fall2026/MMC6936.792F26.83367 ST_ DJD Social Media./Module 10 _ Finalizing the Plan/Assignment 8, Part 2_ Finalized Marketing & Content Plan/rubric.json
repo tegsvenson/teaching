@@ -1,0 +1,28 @@
+{
+  "title": "Some Rubric",
+  "points_possible": 60.0,
+  "criteria": [
+    {
+      "id": "_3535",
+      "points": 60.0,
+      "description": "Comments Resolved",
+      "long_description": "Full or proportionate credit out of 60 points for addressing comments that were provided in Assignments 1 to 7.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 60.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "Content Production Rubric",
+  "points_possible": 140.0,
+  "criteria": [
+    {
+      "id": "_6231",
+      "points": 20.0,
+      "description": "10 Posts",
+      "long_description": "At least 4 of the student&#39;s posts are original, created content from scratch (using stock photos/videos is okay, but you must introduce that post to the cyberspace world for the first time). The remaining 5 are either created or curated (shared from somewhere/someone else).",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9921",
+      "points": 20.0,
+      "description": "Livestream Advertisement",
+      "long_description": "Either as a plain text post or a unique created post, student has planned for a way to advertise their Livestream.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9713",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1604",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1653",
+      "points": 20.0,
+      "description": "Livestream Outline",
+      "long_description": "Student has written an outline of their Livestream, including any necessary step-by-step instructions they will need to reference during the stream.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4709",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3390",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1987",
+      "points": 40.0,
+      "description": "Created Content-- Finished",
+      "long_description": "Student has turned in any created content that is able to be finished now, including: graphics; posts that use stock photos/videos; text posts.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_6595",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1351",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4642",
+      "points": 40.0,
+      "description": "Created Content-- In Progress",
+      "long_description": "Student has turned in their plans for any created content that is currently a work in progress, including plans for content reliant on original photos/videos.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8474",
+          "points": 40.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_8536",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

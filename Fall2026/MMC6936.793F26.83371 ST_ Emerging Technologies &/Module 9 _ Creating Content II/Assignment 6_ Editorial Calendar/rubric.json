@@ -1,0 +1,116 @@
+{
+  "title": "Editorial Calendar Rubric",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_4592",
+      "points": 10.0,
+      "description": "Trello",
+      "long_description": "Student has used Trello or an appropriate social media editorial calendar planning tool to craft their editorial calendar. The student&#39;s file name is &quot;My Editorial Calendar.&quot;",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_7814",
+      "points": 20.0,
+      "description": "Scheduling",
+      "long_description": "Student has made an adequate posting schedule following their strategic plan that was established in earlier assignments.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_6616",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_5838",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_7227",
+      "points": 30.0,
+      "description": "Posting Strategies",
+      "long_description": "The posting days, times, and frequencies reflect an understanding of the best way to reach audiences via different social platforms according to latest research and data.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_407",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1900",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8864",
+      "points": 30.0,
+      "description": "10 Posts",
+      "long_description": "Student has made a plan for their 10 posts, and has designated: the date/time of the post; the platform where the content will be published; and the type of content that the post will contain.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_7372",
+          "points": 30.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_9223",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9971",
+      "points": 10.0,
+      "description": "Post Types",
+      "long_description": "Student has planned at least 5 created posts-- 1 of which must be a live stream-- and curated posts in a ratio that matches the group&#39;s determined created:curated content ratio.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9137",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_1280",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

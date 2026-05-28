@@ -1,0 +1,138 @@
+{
+  "title": "Peer Review",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_2492",
+      "points": 18.0,
+      "description": "1. Description of the Project",
+      "long_description": "The report addresses the requirement successfully.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 18.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_4502",
+      "points": 18.0,
+      "description": "2. I could've used this idea for my project!",
+      "long_description": "The report addresses the requirement successfully.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8125",
+          "points": 18.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2355",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6928",
+      "points": 18.0,
+      "description": "3. I didn't see this coming.",
+      "long_description": "The report addresses the requirement successfully.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2082",
+          "points": 18.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_4755",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9341",
+      "points": 18.0,
+      "description": "4. I wouldn't have done it like that.",
+      "long_description": "The report addresses the requirement successfully.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4147",
+          "points": 18.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_465",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_3564",
+      "points": 18.0,
+      "description": "5. That one good post.",
+      "long_description": "The report addresses the requirement successfully.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2933",
+          "points": 18.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2463",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9684",
+      "points": 10.0,
+      "description": "Provided the link to brand's profiles",
+      "long_description": "Student successfully provided the links for the brand&#39;s social media profiles on time.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2703",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3826",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

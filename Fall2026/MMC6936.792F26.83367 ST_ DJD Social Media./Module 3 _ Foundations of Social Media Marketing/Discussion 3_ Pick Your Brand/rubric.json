@@ -1,0 +1,28 @@
+{
+  "title": "Pick your brand",
+  "points_possible": 20.0,
+  "criteria": [
+    {
+      "id": "_4247",
+      "points": 20.0,
+      "description": "Brand chosen",
+      "long_description": "Student successfully chose a brand following the class rules; and reported the required information accurately.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 20.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

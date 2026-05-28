@@ -1,0 +1,116 @@
+{
+  "title": "Food Comm Audio Editing Assignment",
+  "points_possible": 20.0,
+  "criteria": [
+    {
+      "id": "_9833",
+      "points": 4.0,
+      "description": "First tool evident",
+      "long_description": "Evidence of noise reduction tool.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 4.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6609",
+      "points": 4.0,
+      "description": "Second tool evident",
+      "long_description": "Evidence of pop &amp; click reductions.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1128",
+          "points": 4.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2624",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8581",
+      "points": 4.0,
+      "description": "Third tool evident",
+      "long_description": "Evidence of hiss reductions.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_5769",
+          "points": 4.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_8096",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1333",
+      "points": 4.0,
+      "description": "Fourth tool evident",
+      "long_description": "Evidence of normalization to -3db.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9096",
+          "points": 4.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_9986",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8773",
+      "points": 4.0,
+      "description": "WAV & MP3 files",
+      "long_description": "Exported mixdown of WAV and MP3 files both uploaded.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2565",
+          "points": 4.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3723",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "title": "Media Dairy (1)",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_4631",
+      "points": 10.0,
+      "description": "What is the average daily usage?",
+      "long_description": "Share a screenshot of your weekly usage.  What is the average daily usage?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2895",
+      "points": 10.0,
+      "description": "What are the top five apps that you used?",
+      "long_description": "Share a screenshot of your weekly usage.  What are the top five apps that you used?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_9468",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_3875",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6590",
+      "points": 10.0,
+      "description": "What is the breakdown of the app categories that you used?",
+      "long_description": "Share a screenshot of your weekly usage. What is the breakdown of the app categories that you used?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3795",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_5995",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_6998",
+      "points": 10.0,
+      "description": "What is it that you find different between different days?",
+      "long_description": "Share a screenshot of your daily usage.  What is it that you find different between different days?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1355",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2422",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_3094",
+      "points": 10.0,
+      "description": "Which time of the day did you spend the most time?",
+      "long_description": "Share a screenshot of your daily usage.  Which time of the day did you spend the most time?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_2636",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_5010",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_8405",
+      "points": 10.0,
+      "description": "What percentage of them was for work? What percentage of them was due to leisure?",
+      "long_description": "Finally, provide an analysis of your findings.  What percentage of them was for work? What percentage of them was due to leisure?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1452",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_5048",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_3797",
+      "points": 10.0,
+      "description": "For those that were for leisure, how much control do you think you had over the usage?",
+      "long_description": "Finally, provide an analysis of your findings. For those that were for leisure, how much control do you think you had over the usage?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1335",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_416",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_7678",
+      "points": 10.0,
+      "description": "What are the most unexpected findings?",
+      "long_description": "Finally, provide an analysis of your findings. What are the most unexpected findings?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_786",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2885",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_7971",
+      "points": 10.0,
+      "description": "Why are the unexpected findings different from your expectations?",
+      "long_description": "Finally, provide an analysis of your findings. Why are the unexpected findings different from your expectations?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_4943",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_6306",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_9827",
+      "points": 10.0,
+      "description": "How do you feel about the findings, and what are your thoughts about changing/maintaining your media habit?",
+      "long_description": "Finally, provide an analysis of your findings. How do you feel about the findings, and what are your thoughts about changing/maintaining your media habit?",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_8559",
+          "points": 10.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_4921",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}

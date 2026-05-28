@@ -1,0 +1,190 @@
+{
+  "title": "Assignment 5",
+  "points_possible": 100.0,
+  "criteria": [
+    {
+      "id": "_2369",
+      "points": 25.0,
+      "description": "Disclaimer & Brand Profile Text",
+      "long_description": "Brand profile text is shared, and the disclaimer is included.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "blank",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2106",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_3855",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_5532",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_841",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "blank_2",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1568",
+      "points": 25.0,
+      "description": "Accreditation",
+      "long_description": "Accreditation is adequately described.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1036",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2853",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_393",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_9625",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_4050",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_1216",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_1288",
+      "points": 25.0,
+      "description": "Added Value",
+      "long_description": "Added value is adequately described.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_1199",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_2814",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_103",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_8530",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_1188",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_9396",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    },
+    {
+      "id": "_2684",
+      "points": 25.0,
+      "description": "Platform Guidelines",
+      "long_description": "Platform guidelines are adequately described.",
+      "ignore_for_scoring": null,
+      "criterion_use_range": false,
+      "ratings": [
+        {
+          "id": "_3321",
+          "points": 25.0,
+          "description": "Full Marks",
+          "long_description": ""
+        },
+        {
+          "id": "_7533",
+          "points": 20.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_2792",
+          "points": 15.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_9239",
+          "points": 10.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_1086",
+          "points": 5.0,
+          "description": "Partial Credit",
+          "long_description": ""
+        },
+        {
+          "id": "_3898",
+          "points": 0.0,
+          "description": "No Marks",
+          "long_description": ""
+        }
+      ]
+    }
+  ]
+}
